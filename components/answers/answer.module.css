@@ -1,0 +1,26 @@
+.main {
+  background-color: rgb(255, 255, 255);
+  border-bottom: solid;
+  border-top: solid;
+  border-radius: 15px;
+  border-color: #7ebfc5;
+  box-sizing: border-box;
+  margin: 30px;
+  width: 80%;
+}
+
+.content {
+  background-color: rgb(255, 255, 255);
+  height: 150px;
+  width: 100%;
+  padding: 20px;
+}
+
+.content h2 {
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.info {
+  margin: 0;
+}

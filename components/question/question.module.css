@@ -1,0 +1,44 @@
+.main {
+  background-color: rgb(255, 255, 255);
+  border-bottom: solid;
+  border-top: solid;
+  border-radius: 15px;
+  border-color: #7ebfc5;
+
+  box-sizing: border-box;
+  margin: 30px;
+  width: 80%;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.main:hover {
+  scale: 1.02;
+}
+
+.content {
+  background-color: rgb(255, 255, 255);
+  height: 150px;
+  width: 100%;
+  padding: 20px;
+}
+
+.content h2 {
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.content h5 {
+  margin-top: 5px;
+  padding-top: 15px;
+  text-align: center;
+}
+
+.content h6 {
+  padding-top: 45px;
+  text-align: end;
+}
+
+.info {
+  margin: 0;
+}

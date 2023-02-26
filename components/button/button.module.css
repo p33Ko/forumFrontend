@@ -1,0 +1,16 @@
+.main {
+  all: unset;
+  width: 165px;
+  height: 50px;
+  border: solid 2px;
+  border-color: #7ebfc5;
+  text-align: center;
+  font-weight: 500;
+  font-size: 22px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.main:hover {
+  background-color: #8ad1d7;
+}
